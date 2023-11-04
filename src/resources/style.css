@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700&display=swap');
+
+#resultLabel {
+    -fx-font-size: 48;
+    -fx-padding: 20;
+    -fx-background-radius: 5;
+    -fx-text-fill: #800080; /* Purple text color */
+    -fx-background-color: #FFD700; /* Golden background color */
+}
+
+#convertButton:hover {
+    -fx-background-color: #FFD700; /* Golden on hover */
+}
+
+.root {
+    -fx-background-color: #800080; /* Purple background color */
+}
+
+.combo-box .list-cell {
+    -fx-background-color: #FFD700; /* Golden background color */
+    -fx-text-fill: #800080; /* Purple text color on blue */
+}
+
+.combo-box .list-cell:hover {
+    -fx-background-color: #FFD700; /* Golden on hover */
+}
+
+.combo-box-base:hover {
+    -fx-background-color: #FFD700; /* Golden on hover */
+}
+
+.common-component {
+    -fx-font-family: 'Noto Sans JP', sans-serif;
+    -fx-font-size: 32;
+    -fx-font-weight: 700;
+    -fx-background-color: #FFD700; /* Golden background color */
+    -fx-text-fill: #800080; /* Purple text color */
+    -fx-prompt-text-fill: #800080; /* Purple prompt text color */
+}
+
+.hand-cursor {
+    -fx-cursor: pointer; /* Change cursor to a pointer */
+}
+
+
+
+
+
+
